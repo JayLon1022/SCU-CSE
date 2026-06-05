@@ -1,0 +1,11 @@
+# 隐私源仓库与迁移工作区（含 PII，严禁提交进公开仓库）
+SCU-CSE-2022/
+
+# 系统/编辑器垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
+.claude/
